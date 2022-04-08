@@ -1,0 +1,2 @@
+exemplo de arquivo Um
+linha outra
